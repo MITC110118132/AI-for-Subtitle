@@ -20,7 +20,8 @@ Video:｛mov、mp4、avi、mpeg、mpga｝
 《Supported language about 100 Countries》
 
 3.選擇欲轉錄的語言模組(Choose Model)
-《Supported Language Models》：
+《Supported Language Models》：  
+
 「tiny」  
 
 「base」  
