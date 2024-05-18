@@ -19,7 +19,7 @@ Audio:｛mkv、mp3、m4a、wav｝;
 Video:｛mov、mp4、avi、mpeg、mpga｝
 ```
 2.選擇該檔案的語音語言(Choose Language what the file is)
-`《Supported language about 100 Countries》`
+```《Supported language about 100 Countries》```
 
 3.選擇欲轉錄的語言模組(Choose Model)
 《Supported Language Models》：  
