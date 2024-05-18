@@ -21,10 +21,14 @@ Video:｛mov、mp4、avi、mpeg、mpga｝
 
 3.選擇欲轉錄的語言模組(Choose Model)
 《Supported Language Models》：
-「tiny」
-「base」
-「small」
-「medium」
+「tiny」  
+
+「base」  
+
+「small」  
+
+「medium」  
+
 「large-v1」、「large-v2」、「large-v3」
 
 |  Size  | Parameters | English-only model | Multilingual model | Required VRAM | Relative speed |
