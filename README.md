@@ -39,7 +39,7 @@ Video:｛mov、mp4、avi、mpeg、mpga｝
 | medium |   769 M    |    `medium.en`     |      `medium`      |     ~5 GB     |      ~2x       |
 | large  |   1550 M   |        N/A         |      `large`       |    ~10 GB     |       1x       |
 
-※ 注意：選取越大的語言模組，所需要的專屬記憶體也會越多
+※ 注意：選取越大的語言模組，所需要的專屬記憶體也會越多  
 ※ Selecting larger language models requires more VRAM
 
 
@@ -54,11 +54,11 @@ The Finish button can close this application correctly, the Back button can retu
 3.嵌入必須為影片格式。  
 If you want to embed some file, the file must be a video file.
 
-3.字型樣式可以自己匯入到font資料夾，嵌入時選擇之自行樣式需相容於SRT檔案語言。  
+4.字型樣式可以自己匯入到font資料夾，嵌入時選擇之自行樣式需相容於SRT檔案語言。  
 The font can be imported into the font folder, if you want to embed it, the font must be compatible with the language of the SRT file.
 
-4.字幕文字大小以pixel為單位，大小將根據影片大小等比例調整。  
+5.字幕文字大小以pixel為單位，大小將根據影片大小等比例調整。  
 The size of the subtitles' characters will be proportionally adjusted according to the size of the video, measured in pixels.
 
-5.SRT檔案可另行準備，但若SRT檔案格式不相容，可能導致錯誤閃退，建議使用上一頁Whisper功能生成之SRT。  
+6.SRT檔案可另行準備，但若SRT檔案格式不相容，可能導致錯誤閃退，建議使用上一頁Whisper功能生成之SRT。  
 The SRT file can be prepared separately, but if the format of the SRT file is incompatible, might cause a crash error, so we advised using the Whisper function to generate the SRT file on the previous page.
