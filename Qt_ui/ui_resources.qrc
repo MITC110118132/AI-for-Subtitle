@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="images">
+    <file>ui_images/notice1.png</file>
+    <file>ui_images/Lx.png</file>
+  </qresource>
+</RCC>
