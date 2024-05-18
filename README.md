@@ -7,7 +7,8 @@
 # 前置條件
 
 # Whisper(Speech to Text)
-將附有語音的檔案轉錄成文字，執行多語言語音識別、語音翻譯和語言識別。 
+將附有語音的檔案轉錄成文字，執行多語言語音識別、語音翻譯和語言識別。
+
 It can perform multilingual speech recognition, speech translation, and language identification.
 
 
