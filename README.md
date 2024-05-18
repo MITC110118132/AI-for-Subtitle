@@ -13,10 +13,10 @@ It can perform multilingual speech recognition, speech translation, and language
 #
 1.選擇影音檔案(Choose file you want to transcribe)
 《Supported formats》：  
-
+```
 Audio:｛mkv、mp3、m4a、wav｝; 
 Video:｛mov、mp4、avi、mpeg、mpga｝
-
+```
 2.選擇該檔案的語音語言(Choose Language what the file is)
 《Supported language about 100 Countries》
 
