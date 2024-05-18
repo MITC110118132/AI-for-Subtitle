@@ -22,7 +22,8 @@ Video:｛mov、mp4、avi、mpeg、mpga｝
 
 ```《Supported language about 100 Countries》```
 
-3.選擇欲轉錄的語言模組(Choose Model)
+3.選擇欲轉錄的語言模組(Choose Model)  
+```
 《Supported Language Models》：  
 
 「tiny」  
@@ -34,7 +35,7 @@ Video:｛mov、mp4、avi、mpeg、mpga｝
 「medium」  
 
 「large-v1」、「large-v2」、「large-v3」
-
+```
 |  Size  | Parameters | English-only model | Multilingual model | Required VRAM | Relative speed |
 |:------:|:----------:|:------------------:|:------------------:|:-------------:|:--------------:|
 |  tiny  |    39 M    |     `tiny.en`      |       `tiny`       |     ~1 GB     |      ~32x      |
