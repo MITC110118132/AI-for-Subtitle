@@ -45,20 +45,20 @@ Video:｛mov、mp4、avi、mpeg、mpga｝
 
 
 # SRT Embed
-將SRT格式檔案嵌入影片檔案，字幕格式可自行調整。  
+1.將SRT格式檔案嵌入影片檔案，字幕格式可自行調整。  
 It can embed the SRT file into a video file, and the font style can be adjusted by yourself.
 
-Finish按鈕將正確關閉程式並退出、Back按鈕將返回Whisper頁面、Embed按鈕將彈出確認視窗，點擊ok開啟嵌入。  
+2.Finish按鈕將正確關閉程式並退出、Back按鈕將返回Whisper頁面、Embed按鈕將彈出確認視窗，點擊ok開啟嵌入。  
 The Finish button can close this application correctly, the Back button can return to the Whisper page, the Embed button will pop up a message window for a check, and clicking ok will start embed.
 
-嵌入必須為影片格式。  
+3.嵌入必須為影片格式。  
 If you want to embed some file, the file must be a video file.
 
-字型樣式可以自己匯入到font資料夾，嵌入時選擇之自行樣式需相容於SRT檔案語言。  
+3.字型樣式可以自己匯入到font資料夾，嵌入時選擇之自行樣式需相容於SRT檔案語言。  
 The font can be imported into the font folder, if you want to embed it, the font must be compatible with the language of the SRT file.
 
-字幕文字大小以pixel為單位，大小將根據影片大小等比例調整。  
+4.字幕文字大小以pixel為單位，大小將根據影片大小等比例調整。  
 The size of the subtitles' characters will be proportionally adjusted according to the size of the video, measured in pixels.
 
-SRT檔案可另行準備，但若SRT檔案格式不相容，可能導致錯誤閃退，建議使用上一頁Whisper功能生成之SRT。  
+5.SRT檔案可另行準備，但若SRT檔案格式不相容，可能導致錯誤閃退，建議使用上一頁Whisper功能生成之SRT。  
 The SRT file can be prepared separately, but if the format of the SRT file is incompatible, might cause a crash error, so we advised using the Whisper function to generate the SRT file on the previous page.
