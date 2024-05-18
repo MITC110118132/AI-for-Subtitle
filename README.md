@@ -11,7 +11,6 @@
 
 It can perform multilingual speech recognition, speech translation, and language identification.
 #
-#
 1.選擇影音檔案(Choose file you want to transcribe)
 《Supported formats》：
 Audio:｛mkv、mp3、m4a、wav｝; 
