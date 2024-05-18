@@ -1,0 +1,1 @@
+this folder is the default folder of whisper transcript
