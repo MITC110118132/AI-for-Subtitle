@@ -6,11 +6,11 @@
 
 # 前置條件  
 本專案會需要安裝以下套件(※ 環境本有內附，也可以不需要特地安裝即可使用)，如果有需要使用自身本機的顧慮，依然可以自行下載  
-## CUDA
+### CUDA
 ```
 https://pytorch.org/
 ```
-## Torch
+### Torch
 ```  
 1. git clone https://github.com/torch/distro.git ~/torch --recursive
 2. cd ~/torch; bash install-deps;
