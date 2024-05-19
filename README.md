@@ -15,7 +15,7 @@ https://pytorch.org/
 1. git clone https://github.com/torch/distro.git ~/torch --recursive
 2. cd ~/torch; bash install-deps;
 3. ./install.sh
-or
+or you can use in CMD
 
 pip install torch
 ```
