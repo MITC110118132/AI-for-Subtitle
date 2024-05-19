@@ -8,7 +8,8 @@
 本專案會需要安裝以下套件(※ 環境本有內附，也可以不需要特地安裝即可使用)，如果有需要使用自身本機的顧慮，依然可以自行下載  
 ### CUDA
 ```
-https://pytorch.org/
+1. enter " nvidia-smi " to search your CUDA version
+2. and go to " https://pytorch.org ", downloading Pytorch with your CUDA version
 ```
 ### Torch
 ```  
