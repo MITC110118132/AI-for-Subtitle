@@ -4,7 +4,17 @@
 這是一個字幕處理工具，分為speech to text語音轉文字生成逐字稿，以及自動化嵌入逐字稿字幕生成新影片內容，兩種主要功能。
 
 
-# 前置條件
+# 前置條件  
+本專案會需要安裝以下套件(※ 環境本有內附，也可以不需要特地安裝即可使用)，如果有需要使用自身本機的顧慮，依然可以自行下載
+```
+CUDA: https://pytorch.org/
+```  
+```
+Torch:   
+1. git clone https://github.com/torch/distro.git ~/torch --recursive
+2. cd ~/torch; bash install-deps;
+3. ./install.sh
+```
 
 # Whisper(Speech to Text)
 將附有語音的檔案轉錄成文字，執行多語言語音識別、語音翻譯和語言識別。
