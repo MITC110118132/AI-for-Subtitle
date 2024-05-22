@@ -20,7 +20,12 @@ or you can use in CMD
 
 pip install torch
 ```
-
+### 第一次使用(first time)
+```
+1.所選模型第一次使用時會需要下載。
+2.建議下載CUDA以GPU執行程式。
+3.字型可以自行匯入，若不相容語言，嵌入結果則會以空格取代。
+```
 # Whisper(Speech to Text)
 將附有語音的檔案轉錄成文字，執行多語言語音識別、語音翻譯和語言識別。
 
