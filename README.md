@@ -6,6 +6,17 @@
 
 # 前置條件  
 本專案會需要安裝以下套件(※ 環境本有內附，也可以不需要特地安裝即可使用)，如果有需要使用自身本機的顧慮，依然可以自行下載  
+### 第一次使用(first time)
+```
+1.點擊Launcher.bat(批次檔案)即可開啟程式。
+Click Launcher.bat(batch file) to execute the program. 
+2.所選模型第一次使用時會需要下載。
+The first time you use the whisper model, need to wait for the model download.
+3.建議下載CUDA以GPU執行程式。
+We advise downloading CUDA to run the program with GPU.
+4.字型可以自行匯入(.TTF .TTC)至Font資料夾，若選擇之字型不相容語言，嵌入結果則會以空格取代。
+The font can be imported by yourself to the folder Font if the fonts selected are not compatible language, the embedded result will be replaced in space.
+```
 ### CUDA
 ```
 1. enter " nvidia-smi " to search your CUDA version
@@ -19,12 +30,6 @@
 or you can use in CMD
 
 pip install torch
-```
-### 第一次使用(first time)
-```
-1.所選模型第一次使用時會需要下載。
-2.建議下載CUDA以GPU執行程式。
-3.字型可以自行匯入，若不相容語言，嵌入結果則會以空格取代。
 ```
 # Whisper(Speech to Text)
 將附有語音的檔案轉錄成文字，執行多語言語音識別、語音翻譯和語言識別。
